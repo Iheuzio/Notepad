@@ -20,7 +20,7 @@ Tested on OpenJDK 19.0.1
 #### 2. Install using wget (Mac, Windows and Linux)
 Ensure wget is installed and run 
 ```bash
-  wget https://github.com/Iheuzio/Notepad/notepad.jar
+  wget https://github.com/Iheuzio/Notepad/releases/download/1.0/notepad.jar
 ```
 Then run the executable
 
